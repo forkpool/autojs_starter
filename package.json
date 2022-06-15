@@ -1,0 +1,19 @@
+{
+  "name": "autojs_starter",
+  "version": "1.0.0",
+  "description": "AutoJS PC版快速创建脚本工具",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev",
+    "clean": "gulp clean",
+    "build": "gulp build",
+    "publish": "gulp publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^6.1.1",
+    "gulp": "^4.0.2"
+  }
+}

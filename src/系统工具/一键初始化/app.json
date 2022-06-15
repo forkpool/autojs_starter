@@ -1,0 +1,8 @@
+{
+    "icon": "",
+    "name": "一键初始化",
+    "desc": "启动手机服务，切换手机端输入法",
+    "main": "main.js",
+    "encCode":false,
+    "config": {}
+}
