@@ -1,8 +1,5 @@
 {
-    "icon": "",
     "name": "使用公共代码",
     "desc": "把项目公共的代码抽取出来，放在libs目录下，提高代码复用性",
-    "main": "main.js",
-    "encCode":false,
-    "config": {}
+    "main": "main.js"
 }
